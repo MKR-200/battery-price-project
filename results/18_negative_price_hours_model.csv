@@ -1,0 +1,24 @@
+,coefficient,standard_error,t_statistic,p_value,ci_95_low,ci_95_high
+Intercept,9.1487,3.8509,2.3757,0.0175,1.6011,16.6964
+"C(weekday, Treatment(""Monday""))[T.Friday]",-0.041,0.2332,-0.176,0.8603,-0.4981,0.416
+"C(weekday, Treatment(""Monday""))[T.Saturday]",1.2144,0.2826,4.2968,0.0,0.6604,1.7683
+"C(weekday, Treatment(""Monday""))[T.Sunday]",1.9162,0.2843,6.741,0.0,1.3591,2.4733
+"C(weekday, Treatment(""Monday""))[T.Thursday]",-0.0291,0.2426,-0.1198,0.9047,-0.5045,0.4464
+"C(weekday, Treatment(""Monday""))[T.Tuesday]",-0.0026,0.1936,-0.0133,0.9894,-0.3821,0.377
+"C(weekday, Treatment(""Monday""))[T.Wednesday]",-0.1984,0.2279,-0.8705,0.384,-0.6451,0.2483
+"C(month, Treatment(""January""))[T.April]",6.8885,0.7124,9.6693,0.0,5.4922,8.2847
+"C(month, Treatment(""January""))[T.August]",-0.7143,0.5138,-1.3904,0.1644,-1.7213,0.2926
+"C(month, Treatment(""January""))[T.December]",-1.0186,0.3598,-2.8308,0.0046,-1.7238,-0.3134
+"C(month, Treatment(""January""))[T.February]",3.3527,0.7349,4.5621,0.0,1.9123,4.7931
+"C(month, Treatment(""January""))[T.July]",-0.9065,0.5179,-1.7503,0.0801,-1.9215,0.1086
+"C(month, Treatment(""January""))[T.June]",0.6967,0.7493,0.9298,0.3524,-0.7719,2.1653
+"C(month, Treatment(""January""))[T.March]",5.4617,0.6898,7.9178,0.0,4.1098,6.8137
+"C(month, Treatment(""January""))[T.May]",4.6631,0.9812,4.7527,0.0,2.7401,6.5861
+"C(month, Treatment(""January""))[T.November]",0.1627,0.4181,0.3892,0.6971,-0.6568,0.9822
+"C(month, Treatment(""January""))[T.October]",0.7434,0.4383,1.6961,0.0899,-0.1157,1.6025
+"C(month, Treatment(""January""))[T.September]",-0.3573,0.4607,-0.7755,0.438,-1.2602,0.5457
+battery_gw,-1.4031,0.7971,-1.7603,0.0783,-2.9653,0.1591
+demand_gap_gw,-0.0657,0.0726,-0.905,0.3655,-0.208,0.0766
+solar_drop_gw,-0.0298,0.0742,-0.4021,0.6876,-0.1753,0.1156
+gas_usd_mmbtu,-0.2523,0.077,-3.2777,0.001,-0.4032,-0.1014
+trend_years,5.6739,3.2608,1.74,0.0819,-0.7171,12.0649
