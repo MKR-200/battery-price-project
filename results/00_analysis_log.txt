@@ -1,0 +1,65 @@
+Battery-price analysis log
+Created: 2026-08-14 19:57:41.601190
+
+Input file: data\CAISO_daily_analysis.csv
+
+Source rows: 976
+
+Unique dates: 976
+
+Duplicate dates: 0
+
+Sample boundaries: 2023-05-01 to 2025-12-31
+
+Missing values by variable:
+spread_usd_mwh         0
+evening_lmp_usd_mwh    0
+midday_lmp_usd_mwh     0
+battery_gw             0
+demand_gap_gw          1
+solar_drop_gw          1
+gas_usd_mmbtu          0
+weekday                0
+month                  0
+trend_years            0
+tariff_break           0
+dtype: int64
+
+Complete-case frequency:
+col_0  count
+row_0       
+False      1
+True     975
+
+Dropped dates:
+551    2024-11-02
+Name: date, dtype: str
+
+Coverage and complete-case gates passed. Estimation begins.
+
+Battery-trend correlation: 0.9975038436522474
+
+Maximum externally studentized residual: 28.13858556126179
+
+Minimum externally studentized residual: -1.8604626498157215
+
+Days flagged at absolute studentized residual > 3: 10
+
+PRIMARY BATTERY RESULT (conditional association, not causation)
+Coefficient, USD/MWh per additional GW: 0.6447026750316075
+
+HAC standard error, seven lags: 8.012376813181879
+
+Two-sided p value: 0.9358687446309193
+
+95% confidence interval: [-15.059267309368687, 16.3486726594319]
+
+Baseline observations: 975.0
+
+Baseline R-squared: 0.2858699080162199
+
+Interpret estimates as conditional historical associations only.
+
+Analysis completed.
+
+Source: Author’s calculations using California ISO OASIS data and U.S. Energy Information Administration EIA-860M and EIA-930 data.
