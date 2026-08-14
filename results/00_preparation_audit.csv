@@ -1,0 +1,7 @@
+check,result
+sample dates,976
+unique dates,976
+incomplete regression dates,2024-11-02
+usable complete cases,975
+timing robustness usable cases,944
+duplicate dates,0
