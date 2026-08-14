@@ -1,0 +1,6 @@
+,variable,adf_statistic,p_value,deterministic_terms,lagged_differences
+0,spread_usd_mwh,-9.5197,0.0,constant and trend,7
+1,battery_gw,-4.3709,0.0024,constant and trend,7
+2,demand_gap_gw,-4.5426,0.0013,constant and trend,7
+3,solar_drop_gw,-4.3064,0.0031,constant and trend,7
+4,gas_usd_mmbtu,-4.8894,0.0003,constant and trend,7

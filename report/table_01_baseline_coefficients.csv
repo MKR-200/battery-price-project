@@ -1,0 +1,6 @@
+Regressor,Coefficient,HAC SE,p value,95% CI
+Battery power capacity (GW),0.6447,8.0124,0.9359,"[-15.059, 16.349]"
+Evening-minus-midday demand (GW),4.4493,1.2438,0.0003,"[2.012, 6.887]"
+Midday-minus-evening solar (GW),1.5705,0.6214,0.0115,"[0.353, 2.788]"
+FRSCE3 delivered gas cost (USD/MMBtu),9.5337,2.6393,0.0003,"[4.361, 14.707]"
+Linear trend (years),-11.5389,33.0681,0.7271,"[-76.351, 53.273]"

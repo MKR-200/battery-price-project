@@ -1,0 +1,4 @@
+,model,battery_variable,coefficient,standard_error,t_statistic,p_value,ci_95_low,ci_95_high,observations
+0,Spread outcome,battery_gw,0.6447,8.0124,0.0805,0.9359,-15.0593,16.3487,975.0
+1,Evening component,battery_gw,4.0102,8.9846,0.4463,0.6553,-13.5992,21.6197,975.0
+2,Midday component,battery_gw,3.3655,5.2561,0.6403,0.522,-6.9362,13.6673,975.0
