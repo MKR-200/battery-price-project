@@ -1,3 +1,0 @@
-,model,battery_variable,coefficient,standard_error,t_statistic,p_value,ci_95_low,ci_95_high,observations
-0,Power-capacity baseline,battery_gw,0.6447,8.0124,0.0805,0.9359,-15.0593,16.3487,975.0
-1,Energy-capacity alternative,battery_gwh,1.5881,0.8439,1.8818,0.0599,-0.066,3.2421,975.0

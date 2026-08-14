@@ -1,3 +1,0 @@
-,model,battery_variable,coefficient,standard_error,t_statistic,p_value,ci_95_low,ci_95_high,observations
-0,Primary: all complete days,battery_gw,0.6447,8.0124,0.0805,0.9359,-15.0593,16.3487,975.0
-1,Sensitivity: abs(studentized residual) <= 3,battery_gw,-0.7867,4.9516,-0.1589,0.8738,-10.4917,8.9183,965.0
