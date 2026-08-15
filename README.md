@@ -1,4 +1,4 @@
-# Battery build-out and the shape of California electricity prices
+# Battery Build-out and the Shape of Electricity Prices in California, United States
 
 This is the corrected, complete, runnable Python package for the revised
 research design covering 1 May 2023 through 31 December 2025.
